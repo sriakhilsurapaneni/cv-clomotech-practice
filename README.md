@@ -1,1 +1,1 @@
-# cv-clomotech-practice
+practices repository
