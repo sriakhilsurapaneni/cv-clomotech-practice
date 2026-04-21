@@ -1,1 +1,1 @@
-practices repository
+practice repository
